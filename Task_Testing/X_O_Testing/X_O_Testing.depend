@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1625850106 source:h:\automotive sw bootcamp - sprints\sprint_2\s_cp_01\task_testing\x_o_testing\main.c
+	"Test_Cases.h"
+
+1625855107 h:\automotive sw bootcamp - sprints\sprint_2\s_cp_01\task_testing\x_o_testing\test_cases.h
+	"X_O_Application.h"
+	"Test_Cases_Cfg.h"
+
+1625849600 h:\automotive sw bootcamp - sprints\sprint_2\s_cp_01\task_testing\x_o_testing\x_o_application.h
+	<stdio.h>
+	<stdlib.h>
+	"Platform_Types.h"
+
+1625836835 h:\automotive sw bootcamp - sprints\sprint_2\s_cp_01\task_testing\x_o_testing\platform_types.h
+
+1625855546 source:h:\automotive sw bootcamp - sprints\sprint_2\s_cp_01\task_testing\x_o_testing\test_cases.c
+	"Test_Cases.h"
+	"Test_Cases_Cfg.h"
+
+1625849593 source:h:\automotive sw bootcamp - sprints\sprint_2\s_cp_01\task_testing\x_o_testing\x_o_application.c
+	"X_O_Application.h"
+
+1625855014 source:h:\automotive sw bootcamp - sprints\sprint_2\s_cp_01\task_testing\x_o_testing\test_cases_cfg.c
+	"Test_Cases.h"
+
+1625855224 h:\automotive sw bootcamp - sprints\sprint_2\s_cp_01\task_testing\x_o_testing\test_cases_cfg.h
+

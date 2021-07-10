@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1625849508 source:h:\automotive sw bootcamp - sprints\sprint_2\s_cp_01\x_o_game\x_o_game\main.c
+	"X_O_Application.h"
+
+1625849390 source:h:\automotive sw bootcamp - sprints\sprint_2\s_cp_01\x_o_game\x_o_game\x_o_application.c
+	"X_O_Application.h"
+
+1625849525 h:\automotive sw bootcamp - sprints\sprint_2\s_cp_01\x_o_game\x_o_game\x_o_application.h
+	<stdio.h>
+	<stdlib.h>
+	"Platform_Types.h"
+
+1625787199 h:\automotive sw bootcamp - sprints\sprint_2\s_cp_01\x_o_game\x_o_game\platform_types.h
+
