@@ -29,12 +29,3 @@ str_TC_XOGame_getPlayerInput_t  astr_TC_XOGame_getPlayerInput_TestData[TC_XO_DIS
     {"TC_XOGame_getPlayerInput_05",    X_O_ERROR_OK,                   NULL,            'O',         &u8_XOplayerInput,       NULL},
     {"TC_XOGame_getPlayerInput_06",    X_O_ABORT_GAME,                 NULL,            'X',         &u8_XOplayerInput,       NULL},
 };
-/*typedef struct
-{
-    uint8_t au8_TC_ID[50];
-    sint8_t u8_TC_ExpectedResult;
-    sint8_t u8_TC_ActualResult;
-    uint8_t u8_XOplayerID;
-    uint8_t *pu8_XOplayerInput;
-    uint8_t u8_TC_Status;
-}str_TC_XOGame_getPlayerInput_t;*/
